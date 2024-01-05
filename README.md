@@ -21,12 +21,6 @@ And [Tailwind CSS](https://tailwindcss.com/) with :
 
 ## Usage
 
-After cloning this repo ...
-
-- Copy contents of _my-app_ dir into your repo's root folder.
-- Run `npm install`
-- Run `npm run dev`
-
 - Clone this repository.
 - Transfer the contents of the _my-app_ directory into the root folder of your repository.
 - Execute `npm install` to install dependencies.
