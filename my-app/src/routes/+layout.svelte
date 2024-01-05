@@ -2,4 +2,6 @@
 	import '../app.css';
 </script>
 
-<slot />
+<main class="prose mx-auto">
+	<slot />
+</main>
