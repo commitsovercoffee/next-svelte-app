@@ -1,7 +1,7 @@
 <section class="mt-32">
-	<h1 class="text-darkest">Next Svelte App</h1>
+	<h1 class="text-darkest font-contrail">Next Svelte App</h1>
 
-	<p>
+	<p class="font-caveat text-2xl">
 		Lorem ipsum dolor sit amet, officia excepteur ex fugiat reprehenderit enim labore culpa sint ad
 		nisi Lorem pariatur mollit ex esse exercitation amet. Nisi anim cupidatat excepteur officia.
 		Reprehenderit nostrud nostrud ipsum Lorem est aliquip amet voluptate voluptate dolor minim nulla
